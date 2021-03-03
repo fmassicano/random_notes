@@ -1,5 +1,5 @@
 - [SLURM](#slurm)
-  - [Useful Links](#useful_links)
+  - [Useful Links](#useful-links)
   - [Basic commands](#basic-commands)
     - [Submitting jobs](#submitting-jobs)
     - [Listing jobs](#listing-jobs)
