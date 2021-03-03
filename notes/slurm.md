@@ -1,4 +1,5 @@
 - [SLURM](#slurm)
+  - [Useful Links](#useful_links)
   - [Basic commands](#basic-commands)
     - [Submitting jobs](#submitting-jobs)
     - [Listing jobs](#listing-jobs)
@@ -16,6 +17,10 @@
       - [srun](#srun)
 
 # SLURM
+
+## Useful Links
+
+* https://vsoch.github.io/lessons/sherlock-jobs/
 
 ## Basic commands
 
